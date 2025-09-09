@@ -35,7 +35,11 @@ export default function RootLayout({
   return (
     <html lang="id" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/semestalabs-3dicon.png" type="image/png" />
+        <link rel="icon" href="/semestalabs-3dicon.png?v=2" type="image/png" sizes="32x32" />
+        <link rel="icon" href="/semestalabs-3dicon.png?v=2" type="image/png" sizes="16x16" />
+        <link rel="apple-touch-icon" href="/semestalabs-3dicon.png?v=2" />
+        <link rel="shortcut icon" href="/semestalabs-3dicon.png?v=2" type="image/png" />
+        <meta name="msapplication-TileImage" content="/semestalabs-3dicon.png?v=2" />
       </head>
       <body className={inter.className}>
   <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
