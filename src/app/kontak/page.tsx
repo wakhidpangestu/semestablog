@@ -171,12 +171,22 @@ export default function ContactPage() {
               Tetap update dengan artikel sains dan penemuan terbaru.
             </p>
             <div className="flex flex-wrap gap-3 sm:gap-4">
-              <button className="px-6 py-2 bg-blue-500/20 text-blue-300 rounded-full hover:bg-blue-500/30 transition-colors whitespace-nowrap">
-                Twitter
-              </button>
-              <button className="px-6 py-2 bg-blue-600/20 text-blue-400 rounded-full hover:bg-blue-600/30 transition-colors whitespace-nowrap">
+              <a
+                href="https://instagram.com/wakhidpangestu"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-2 bg-pink-500/20 text-pink-300 rounded-full hover:bg-pink-500/30 transition-colors whitespace-nowrap"
+              >
+                Instagram
+              </a>
+              <a
+                href="https://linkedin.com/in/wakhidpangestu"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-2 bg-blue-600/20 text-blue-400 rounded-full hover:bg-blue-600/30 transition-colors whitespace-nowrap"
+              >
                 LinkedIn
-              </button>
+              </a>
               <a
                 href="https://github.com/wakhidpangestu/semestablog"
                 target="_blank"
