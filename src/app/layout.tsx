@@ -34,6 +34,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="id" suppressHydrationWarning>
+      <head>
+        <link rel="icon" href="/semestalabs-3dicon.png" type="image/png" />
+      </head>
       <body className={inter.className}>
   <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
           <div className="min-h-screen flex flex-col">
