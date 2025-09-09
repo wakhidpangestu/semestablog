@@ -53,11 +53,11 @@ export default function RootLayout({
                     <a href="https://instagram.com/semestalabs.id" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80 transition-colors">SemestaLabs.id</a>
                   </p>
                   <div className="flex justify-center space-x-6 mt-4">
-                    <Link href="/about" className="text-white/50 hover:text-white/70 text-sm transition-colors">
-                      About
+                    <Link href="/tentang" className="text-white/50 hover:text-white/70 text-sm transition-colors">
+                      Tentang
                     </Link>
-                    <Link href="/contact" className="text-white/50 hover:text-white/70 text-sm transition-colors">
-                      Contact
+                    <Link href="/kontak" className="text-white/50 hover:text-white/70 text-sm transition-colors">
+                      Kontak
                     </Link>
                     <a href="https://github.com/wakhidpangestu/semestablog" target="_blank" rel="noopener noreferrer" className="text-white/50 hover:text-white/70 text-sm transition-colors">
                       GitHub
