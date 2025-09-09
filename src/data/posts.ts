@@ -27,10 +27,10 @@ Teorema John Stewart Bell tahun 1964 memberikan cara untuk menguji apakah quantu
 
 Quantum entanglement memiliki aplikasi praktis seperti:
 
-- **Quantum Computing**: Qubit yang terentang dapat melakukan komputasi paralel
-- **Quantum Cryptography**: Saluran komunikasi yang sangat aman
-- **Quantum Teleportation**: Transfer keadaan kuantum
-- **Quantum Sensing**: Pengukuran presisi tinggi
+- Quantum Computing: Qubit yang terentang dapat melakukan komputasi paralel
+- Quantum Cryptography: Saluran komunikasi yang sangat aman
+- Quantum Teleportation: Transfer keadaan kuantum
+- Quantum Sensing: Pengukuran presisi tinggi
 
 ## Masa Depan Teknologi Kuantum
 
@@ -59,18 +59,18 @@ CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) adalah mekani
 
 ### Cara Kerja
 
-1. **Guide RNA**: Mengarahkan enzim Cas9 ke urutan DNA target
-2. **Cas9 Enzyme**: Bertindak sebagai gunting molekuler untuk memotong DNA
-3. **Repair Mechanism**: Sistem perbaikan alami sel memperbaiki potongan DNA, memungkinkan modifikasi yang presisi
+1. Guide RNA: Mengarahkan enzim Cas9 ke urutan DNA target
+2. Cas9 Enzyme: Bertindak sebagai gunting molekuler untuk memotong DNA
+3. Repair Mechanism: Sistem perbaikan alami sel memperbaiki potongan DNA, memungkinkan modifikasi yang presisi
 
 ## Aplikasi Medis
 
 Teknologi CRISPR menjanjikan pengobatan untuk berbagai kondisi:
 
-- **Sickle Cell Disease**: Mengoreksi mutasi genetik penyebab penyakit
-- **Cancer Treatment**: Merekayasa sel imun agar lebih efektif melawan tumor
-- **Inherited Blindness**: Mengembalikan penglihatan dengan memperbaiki cacat genetik
-- **Muscular Dystrophy**: Berpotensi memulihkan fungsi otot
+- Sickle Cell Disease: Mengoreksi mutasi genetik penyebab penyakit
+- Cancer Treatment: Merekayasa sel imun agar lebih efektif melawan tumor
+- Inherited Blindness: Mengembalikan penglihatan dengan memperbaiki cacat genetik
+- Muscular Dystrophy: Berpotensi memulihkan fungsi otot
 
 ## Pertimbangan Etis
 
@@ -94,7 +94,7 @@ Seiring teknologi CRISPR terus berkembang, kita dapat mengharapkan:
 - Solusi potensial untuk tantangan global seperti ketahanan pangan
 
 CRISPR adalah perubahan paradigma di dunia medis, menawarkan harapan untuk mengobati penyakit genetik yang sebelumnya tak tersembuhkan, sekaligus menantang kita untuk mempertimbangkan implikasi etis dari menulis ulang kode kehidupan.`,
-    author: "Admin",
+    author: "Surya Dwi R.",
     date: "2025-09-02T14:30:00Z",
     category: "Biology",
     tags: ["CRISPR", "gene editing", "medicine", "biotechnology"],
@@ -116,10 +116,10 @@ Neural networks terinspirasi dari struktur dan fungsi neuron biologis di otak. S
 
 ### Komponen Kunci
 
-- **Neurons (Nodes)**: Unit pemrosesan dasar yang menerima, memproses, dan mentransmisikan informasi
-- **Weights**: Nilai numerik yang menentukan kekuatan koneksi antar neuron
-- **Activation Functions**: Fungsi matematis yang menentukan apakah neuron diaktifkan
-- **Layers**: Kelompok neuron yang memproses informasi pada tingkat abstraksi berbeda
+- Neurons (Nodes): Unit pemrosesan dasar yang menerima, memproses, dan mentransmisikan informasi
+- Weights: Nilai numerik yang menentukan kekuatan koneksi antar neuron
+- Activation Functions: Fungsi matematis yang menentukan apakah neuron diaktifkan
+- Layers: Kelompok neuron yang memproses informasi pada tingkat abstraksi berbeda
 
 ## Jenis Neural Networks
 
@@ -139,38 +139,38 @@ Arsitektur terbaru yang mendukung large language models seperti GPT, menggunakan
 
 Neural networks belajar melalui proses yang disebut backpropagation:
 
-1. **Forward Pass**: Data input mengalir melalui jaringan untuk menghasilkan output
-2. **Loss Calculation**: Menghitung perbedaan antara output prediksi dan aktual
-3. **Backward Pass**: Error disebarkan kembali melalui jaringan
-4. **Weight Updates**: Parameter jaringan disesuaikan untuk meminimalkan error
+1. Forward Pass: Data input mengalir melalui jaringan untuk menghasilkan output
+2. Loss Calculation: Menghitung perbedaan antara output prediksi dan aktual
+3. Backward Pass: Error disebarkan kembali melalui jaringan
+4. Weight Updates: Parameter jaringan disesuaikan untuk meminimalkan error
 
 ## Aplikasi di Dunia Nyata
 
 Neural networks mendukung banyak teknologi yang kita gunakan sehari-hari:
 
-- **Image Recognition**: Mengidentifikasi objek, wajah, dan scene dalam foto
-- **Natural Language Processing**: Terjemahan bahasa dan generasi teks
-- **Autonomous Vehicles**: Memproses data sensor untuk navigasi
-- **Medical Diagnosis**: Menganalisis citra medis dan data pasien
-- **Recommendation Systems**: Menyarankan konten berdasarkan preferensi pengguna
+- Image Recognition: Mengidentifikasi objek, wajah, dan scene dalam foto
+- Natural Language Processing: Terjemahan bahasa dan generasi teks
+- Autonomous Vehicles: Memproses data sensor untuk navigasi
+- Medical Diagnosis: Menganalisis citra medis dan data pasien
+- Recommendation Systems: Menyarankan konten berdasarkan preferensi pengguna
 
 ## Tantangan dan Batasan
 
 Meskipun kuat, neural networks menghadapi beberapa tantangan:
 
-- **Black Box Problem**: Sulit memahami bagaimana keputusan dibuat
-- **Data Requirements**: Membutuhkan data training dalam jumlah besar
-- **Computational Resources**: Konsumsi energi tinggi untuk training
-- **Bias and Fairness**: Risiko mempertahankan bias dalam data training
+- Black Box Problem: Sulit memahami bagaimana keputusan dibuat
+- Data Requirements: Membutuhkan data training dalam jumlah besar
+- Computational Resources: Konsumsi energi tinggi untuk training
+- Bias and Fairness: Risiko mempertahankan bias dalam data training
 
 ## Masa Depan Neural Networks
 
 Tren penelitian neural network yang muncul antara lain:
 
-- **Neuromorphic Computing**: Hardware yang meniru struktur otak
-- **Few-Shot Learning**: Belajar dari contoh minimal
-- **Explainable AI**: Membuat keputusan neural network lebih dapat dimengerti
-- **Energy-Efficient Architectures**: Mengurangi kebutuhan komputasi
+- Neuromorphic Computing: Hardware yang meniru struktur otak
+- Few-Shot Learning: Belajar dari contoh minimal
+- Explainable AI: Membuat keputusan neural network lebih dapat dimengerti
+- Energy-Efficient Architectures: Mengurangi kebutuhan komputasi
 
 Neural networks terus berkembang, mendekatkan kita pada artificial general intelligence sekaligus menimbulkan pertanyaan penting tentang kolaborasi manusia-mesin di masa depan.`,
     author: "Nagita Destiani",
@@ -195,30 +195,30 @@ Kalkulus pada dasarnya membahas perubahan dan gerak. Dikembangkan secara indepen
 
 ### Konsep Inti
 
-- **Derivatives**: Mengukur laju perubahan (kemiringan, kecepatan, percepatan)
-- **Integrals**: Menghitung akumulasi besaran (luas, volume, jarak total)
-- **Limits**: Mendefinisikan perilaku tepat di batas dan tak hingga
+- Derivatives: Mengukur laju perubahan (kemiringan, kecepatan, percepatan)
+- Integrals: Menghitung akumulasi besaran (luas, volume, jarak total)
+- Limits: Mendefinisikan perilaku tepat di batas dan tak hingga
 
 ## Keajaiban Rekayasa
 
 ### Kamera Smartphone
 Kamera ponsel Anda menggunakan kalkulus untuk:
-- **Autofocus**: Turunan membantu mengoptimalkan posisi lensa untuk gambar paling tajam
-- **Image Stabilization**: Kalkulus memproses data sensor gerak untuk mengurangi goyangan tangan
-- **HDR Processing**: Integral menggabungkan beberapa eksposur untuk pencahayaan optimal
+- Autofocus: Turunan membantu mengoptimalkan posisi lensa untuk gambar paling tajam
+- Image Stabilization: Kalkulus memproses data sensor gerak untuk mengurangi goyangan tangan
+- HDR Processing: Integral menggabungkan beberapa eksposur untuk pencahayaan optimal
 
 ### Keamanan Otomotif
 Mobil modern mengandalkan kalkulus untuk:
-- **Anti-lock Braking Systems (ABS)**: Turunan memantau laju rotasi roda
-- **Airbag Deployment**: Kalkulus menentukan waktu optimal berdasarkan gaya benturan
-- **Fuel Injection**: Algoritma optimasi memaksimalkan efisiensi
+- Anti-lock Braking Systems (ABS): Turunan memantau laju rotasi roda
+- Airbag Deployment: Kalkulus menentukan waktu optimal berdasarkan gaya benturan
+- Fuel Injection: Algoritma optimasi memaksimalkan efisiensi
 
 ## Aplikasi Medis
 
 ### Pencitraan Medis
-- **CT Scans**: Inverse Radon transform (kalkulus integral) merekonstruksi citra 3D
-- **MRI**: Fourier transform memproses data gelombang radio
-- **Ultrasound**: Persamaan gelombang dan kalkulus menciptakan citra real-time
+- CT Scans: Inverse Radon transform (kalkulus integral) merekonstruksi citra 3D
+- MRI: Fourier transform memproses data gelombang radio
+- Ultrasound: Persamaan gelombang dan kalkulus menciptakan citra real-time
 
 ### Dosis Obat
 Farmakokinetika menggunakan persamaan diferensial untuk memodelkan:
@@ -230,22 +230,22 @@ Farmakokinetika menggunakan persamaan diferensial untuk memodelkan:
 
 ### Mekanika Orbit
 Kalkulus memungkinkan:
-- **Trajectory Planning**: Optimasi jalur pesawat luar angkasa
-- **Gravity Assists**: Memanfaatkan gravitasi planet untuk mempercepat pesawat
-- **Landing Calculations**: Kontrol presisi saat pendaratan
+- Trajectory Planning: Optimasi jalur pesawat luar angkasa
+- Gravity Assists: Memanfaatkan gravitasi planet untuk mempercepat pesawat
+- Landing Calculations: Kontrol presisi saat pendaratan
 
 ### Teknologi GPS
 GPS Anda bergantung pada:
-- **Relativistic Corrections**: Persamaan Einstein melibatkan kalkulus tingkat lanjut
-- **Trilateration**: Perhitungan geometris menggunakan sinyal dari beberapa satelit
-- **Error Minimization**: Algoritma optimasi meningkatkan akurasi
+- Relativistic Corrections: Persamaan Einstein melibatkan kalkulus tingkat lanjut
+- Trilateration: Perhitungan geometris menggunakan sinyal dari beberapa satelit
+- Error Minimization: Algoritma optimasi meningkatkan akurasi
 
 ## Ekonomi dan Keuangan
 
 ### Analisis Pasar
-- **Options Pricing**: Persamaan Black-Scholes menggunakan kalkulus stokastik
-- **Risk Management**: Turunan mengukur sensitivitas portofolio
-- **Economic Modeling**: Persamaan diferensial menggambarkan dinamika pasar
+- Options Pricing: Persamaan Black-Scholes menggunakan kalkulus stokastik
+- Risk Management: Turunan mengukur sensitivitas portofolio
+- Economic Modeling: Persamaan diferensial menggambarkan dinamika pasar
 
 ### Optimasi Rantai Pasok
 Perusahaan menggunakan kalkulus untuk:
@@ -256,21 +256,21 @@ Perusahaan menggunakan kalkulus untuk:
 ## Ilmu Lingkungan
 
 ### Pemodelan Iklim
-- **Weather Prediction**: Persamaan diferensial parsial memodelkan dinamika atmosfer
-- **Ocean Currents**: Persamaan dinamika fluida memprediksi pergerakan air
-- **Pollution Dispersion**: Model melacak penyebaran polutan
+- Weather Prediction: Persamaan diferensial parsial memodelkan dinamika atmosfer
+- Ocean Currents: Persamaan dinamika fluida memprediksi pergerakan air
+- Pollution Dispersion: Model melacak penyebaran polutan
 
 ### Energi Terbarukan
-- **Wind Turbine Design**: Optimasi bentuk dan sudut baling-baling
-- **Solar Panel Efficiency**: Memaksimalkan penangkapan energi sepanjang hari
-- **Grid Integration**: Menyeimbangkan suplai dan permintaan secara real-time
+- Wind Turbine Design: Optimasi bentuk dan sudut baling-baling
+- Solar Panel Efficiency: Memaksimalkan penangkapan energi sepanjang hari
+- Grid Integration: Menyeimbangkan suplai dan permintaan secara real-time
 
 ## Komputer Grafis dan Gaming
 
 ### 3D Rendering
-- **Lighting Calculations**: Integral menghitung pencahayaan realistis
-- **Animation**: Turunan menciptakan kurva gerak yang halus
-- **Physics Simulation**: Persamaan diferensial memodelkan perilaku objek realistis
+- Lighting Calculations: Integral menghitung pencahayaan realistis
+- Animation: Turunan menciptakan kurva gerak yang halus
+- Physics Simulation: Persamaan diferensial memodelkan perilaku objek realistis
 
 ### Virtual Reality
 Sistem VR menggunakan kalkulus untuk:
@@ -298,7 +298,7 @@ Memahami kalkulus membuka pintu ke:
 - Riset dan penemuan ilmiah
 
 Alat matematika yang dikembangkan berabad-abad lalu ini terus membentuk dunia modern, membuktikan bahwa matematika abstrak sering menjadi kebutuhan praktis di masa depan.`,
-    author: "Admin",
+    author: "Surya Dwi R.",
     date: "2025-09-01T11:45:00Z",
     category: "Mathematics",
     tags: ["calculus", "applications", "engineering", "technology"],
@@ -321,10 +321,10 @@ Penambahan terbaru pada tabel periodik adalah unsur 113 (Nihonium), 115 (Moscovi
 ### Tantangan dalam Penciptaan Unsur
 
 Menciptakan unsur baru membutuhkan:
-- **Particle Accelerators**: Menumbukkan inti ringan dengan kecepatan luar biasa
-- **Precise Timing**: Mendeteksi unsur yang mungkin hanya ada mikrodetik
-- **International Collaboration**: Kolaborasi keahlian dari berbagai laboratorium
-- **Advanced Detection**: Instrumen canggih untuk mengidentifikasi jejak peluruhan
+- Particle Accelerators: Menumbukkan inti ringan dengan kecepatan luar biasa
+- Precise Timing: Mendeteksi unsur yang mungkin hanya ada mikrodetik
+- International Collaboration: Kolaborasi keahlian dari berbagai laboratorium
+- Advanced Detection: Instrumen canggih untuk mengidentifikasi jejak peluruhan
 
 ## Pulau Stabilitas
 
@@ -430,7 +430,7 @@ Menciptakan unsur di atas 118 menghadapi hambatan besar:
 Tabel periodik tetap menjadi karya yang terus berkembang, setiap unsur baru menambah pemahaman kita tentang struktur atom dan fisika nuklir. Meski aplikasi praktisnya mungkin masih jauh, pengetahuan fundamental dari riset ini terus memperluas pemahaman kita tentang dasar-dasar alam semesta.
 
 Saat kita melangkah melampaui unsur 118, kita tidak sekadar menambah kotak baru di tabel periodik—kita sedang menjelajah batas materi itu sendiri, mendorong batas kemungkinan di alam semesta.`,
-    author: "Admin",
+    author: "Surya Dwi R.",
     date: "2025-09-01T16:20:00Z",
     category: "Chemistry",
     tags: ["periodic table", "superheavy elements", "nuclear physics", "research"],
@@ -444,20 +444,20 @@ Saat kita melangkah melampaui unsur 118, kita tidak sekadar menambah kotak baru 
     excerpt: "Pelajari bagaimana komputasi kuantum dapat mengubah cara kita memecahkan masalah kompleks di sains dan teknologi.",
     content: `# Komputasi Kuantum: Masa Depan Teknologi
 
-Komputasi kuantum memanfaatkan prinsip-prinsip **mekanika kuantum** untuk memproses informasi dengan cara yang jauh lebih cepat daripada komputer klasik. Unit dasar informasi, **qubit**, bisa berada dalam beberapa keadaan sekaligus (superposisi) dan saling terkait melalui **entanglement**.
+Komputasi kuantum memanfaatkan prinsip-prinsip mekanika kuantum untuk memproses informasi dengan cara yang jauh lebih cepat daripada komputer klasik. Unit dasar informasi, qubit, bisa berada dalam beberapa keadaan sekaligus (superposisi) dan saling terkait melalui entanglement.
 
 ## Mengapa Komputasi Kuantum Penting?
 
-- **Memecahkan masalah optimasi kompleks:** seperti logistik, rute transportasi, dan pengembangan material baru.
-- **Pengembangan obat dan material baru:** simulasi molekuler jauh lebih cepat dan akurat.
-- **Keamanan siber:** memungkinkan kriptografi kuantum yang lebih aman.
-- **Simulasi fisika dan kimia:** mempercepat penelitian ilmiah yang memerlukan komputasi besar.
+- Memecahkan masalah optimasi kompleks: seperti logistik, rute transportasi, dan pengembangan material baru.
+- Pengembangan obat dan material baru: simulasi molekuler jauh lebih cepat dan akurat.
+- Keamanan siber: memungkinkan kriptografi kuantum yang lebih aman.
+- Simulasi fisika dan kimia: mempercepat penelitian ilmiah yang memerlukan komputasi besar.
 
 ## Tantangan Saat Ini
 
-- **Dekohensi:** qubit sangat sensitif terhadap lingkungan.
-- **Koreksi kesalahan kuantum:** diperlukan algoritma canggih untuk mengurangi kesalahan.
-- **Biaya tinggi:** perangkat keras dan infrastruktur masih mahal.
+- Dekohensi: qubit sangat sensitif terhadap lingkungan.
+- Koreksi kesalahan kuantum: diperlukan algoritma canggih untuk mengurangi kesalahan.
+- Biaya tinggi: perangkat keras dan infrastruktur masih mahal.
 
 ## Contoh Implementasi
 
@@ -467,7 +467,7 @@ Komputasi kuantum memanfaatkan prinsip-prinsip **mekanika kuantum** untuk mempro
 
 ## Kesimpulan
 
-Komputasi kuantum masih dalam tahap awal, namun potensinya untuk merevolusi sains, teknologi, dan kehidupan sehari-hari sangat besar. Di masa depan, ini bisa menjadi fondasi **internet kuantum** dan **komputasi super canggih**.`,
+Komputasi kuantum masih dalam tahap awal, namun potensinya untuk merevolusi sains, teknologi, dan kehidupan sehari-hari sangat besar. Di masa depan, ini bisa menjadi fondasi internet kuantum dan komputasi super canggih.`,
     author: "Ara Panandhita",
     date: "2025-09-05T10:00:00Z",
     category: "Technology",
@@ -482,19 +482,19 @@ Komputasi kuantum masih dalam tahap awal, namun potensinya untuk merevolusi sain
     excerpt: "Energi gelap menguasai sebagian besar alam semesta. Pelajari konsep, bukti, dan teori terbaru mengenai fenomena ini.",
     content: `# Energi Gelap: Misteri Alam Semesta
 
-Energi gelap adalah komponen misterius yang menyebabkan percepatan **ekspansi alam semesta**. Meski tidak terlihat, efeknya dapat diukur melalui pergerakan galaksi dan observasi kosmologis.
+Energi gelap adalah komponen misterius yang menyebabkan percepatan ekspansi alam semesta. Meski tidak terlihat, efeknya dapat diukur melalui pergerakan galaksi dan observasi kosmologis.
 
 ## Bukti Keberadaan Energi Gelap
 
-- **Supernova Tipe Ia:** mengamati percepatan ekspansi.
-- **Kurva rotasi galaksi:** menunjukkan massa tak terlihat.
-- **Cosmic Microwave Background (CMB):** distribusi energi dan materi di alam semesta.
+- Supernova Tipe Ia: mengamati percepatan ekspansi.
+- Kurva rotasi galaksi: menunjukkan massa tak terlihat.
+- Cosmic Microwave Background (CMB): distribusi energi dan materi di alam semesta.
 
 ## Teori Mengenai Energi Gelap
 
-1. **Kosmologikal Konstanta (Λ):** energi ruang kosong konstan.
-2. **Modifikasi Gravitasi:** alternatif hukum gravitasi Newton dan Einstein.
-3. **Quintessence:** energi dinamis yang berubah seiring waktu.
+1. Kosmologikal Konstanta (Λ): energi ruang kosong konstan.
+2. Modifikasi Gravitasi: alternatif hukum gravitasi Newton dan Einstein.
+3. Quintessence: energi dinamis yang berubah seiring waktu.
 
 ## Implikasi
 
@@ -505,7 +505,7 @@ Energi gelap mempengaruhi:
 
 ## Kesimpulan
 
-Energi gelap tetap menjadi salah satu misteri terbesar kosmologi modern, menantang pemahaman kita tentang fisika dan ruang-waktu. Memahami energi gelap bisa membuka jawaban tentang **asal-usul dan masa depan alam semesta**.`,
+Energi gelap tetap menjadi salah satu misteri terbesar kosmologi modern, menantang pemahaman kita tentang fisika dan ruang-waktu. Memahami energi gelap bisa membuka jawaban tentang asal-usul dan masa depan alam semesta.`,
     author: "Hani Septiani",
     date: "2025-09-06T09:30:00Z",
     category: "Physics",
@@ -520,13 +520,13 @@ Energi gelap tetap menjadi salah satu misteri terbesar kosmologi modern, menanta
     excerpt: "Biologi sintetis menggabungkan genetika dan teknologi untuk menciptakan solusi baru dalam kesehatan, energi, dan lingkungan.",
     content: `# Biologi Sintetis: Inovasi Membentuk Kehidupan
 
-**Biologi sintetis** menggabungkan biologi molekuler, genetika, dan teknologi untuk merancang organisme baru atau sistem biologis dengan fungsi spesifik.
+Biologi sintetis menggabungkan biologi molekuler, genetika, dan teknologi untuk merancang organisme baru atau sistem biologis dengan fungsi spesifik.
 
 ## Aplikasi Biologi Sintetis
 
-- **Obat dan terapi gen:** produksi protein, vaksin, dan terapi kustom.
-- **Energi terbarukan:** mikroorganisme yang menghasilkan biofuel.
-- **Lingkungan:** bakteri pembersih limbah atau polutan.
+- Obat dan terapi gen: produksi protein, vaksin, dan terapi kustom.
+- Energi terbarukan: mikroorganisme yang menghasilkan biofuel.
+- Lingkungan: bakteri pembersih limbah atau polutan.
 
 ## Contoh Nyata
 
@@ -536,13 +536,13 @@ Energi gelap tetap menjadi salah satu misteri terbesar kosmologi modern, menanta
 
 ## Tantangan dan Etika
 
-- **Biosafety:** risiko pelepasan organisme ke lingkungan.
-- **Biosecurity:** potensi penyalahgunaan.
-- **Etika:** pertanyaan tentang "menciptakan kehidupan".
+- Biosafety: risiko pelepasan organisme ke lingkungan.
+- Biosecurity: potensi penyalahgunaan.
+- Etika: pertanyaan tentang "menciptakan kehidupan".
 
 ## Kesimpulan
 
-Biologi sintetis menghadirkan **peluang revolusioner** di kesehatan, energi, dan lingkungan. Namun, pengawasan ilmiah dan regulasi etis sangat penting.`,
+Biologi sintetis menghadirkan peluang revolusioner di kesehatan, energi, dan lingkungan. Namun, pengawasan ilmiah dan regulasi etis sangat penting.`,
     author: "M. Irsya Ramadhan",
     date: "2025-09-07T11:00:00Z",
     category: "Biology",
@@ -561,20 +561,20 @@ AI dapat mempersonalisasi pembelajaran, memberikan rekomendasi materi, dan menga
 
 ## Manfaat AI di Pendidikan
 
-- **Pembelajaran adaptif:** sistem menyesuaikan materi sesuai kemampuan siswa.
-- **Analisis performa real-time:** guru dapat memantau kemajuan siswa.
-- **Otomatisasi evaluasi:** menghemat waktu dan meningkatkan akurasi.
-- **Simulasi interaktif:** virtual reality untuk eksperimen.
+- Pembelajaran adaptif: sistem menyesuaikan materi sesuai kemampuan siswa.
+- Analisis performa real-time: guru dapat memantau kemajuan siswa.
+- Otomatisasi evaluasi: menghemat waktu dan meningkatkan akurasi.
+- Simulasi interaktif: virtual reality untuk eksperimen.
 
 ## Tantangan
 
-- **Akses teknologi:** tidak semua sekolah memiliki infrastruktur.
-- **Privasi data:** perlindungan data siswa harus dijaga.
-- **Kesiapan guru:** pelatihan teknologi diperlukan.
+- Akses teknologi: tidak semua sekolah memiliki infrastruktur.
+- Privasi data: perlindungan data siswa harus dijaga.
+- Kesiapan guru: pelatihan teknologi diperlukan.
 
 ## Kesimpulan
 
-AI membawa **revolusi pembelajaran**, memungkinkan pendidikan lebih personal, efisien, dan menarik. Tantangannya adalah memastikan teknologi digunakan **secara etis dan merata**.`,
+AI membawa revolusi pembelajaran, memungkinkan pendidikan lebih personal, efisien, dan menarik. Tantangannya adalah memastikan teknologi digunakan secara etis dan merata.`,
     author: "Azhar Husein Mahmud",
     date: "2025-09-07T15:00:00Z",
     category: "Technology",
@@ -589,24 +589,24 @@ AI membawa **revolusi pembelajaran**, memungkinkan pendidikan lebih personal, ef
     excerpt: "Energi terbarukan menjadi kunci masa depan yang ramah lingkungan. Pelajari teknologi dan inovasi terbaru di bidang energi bersih.",
     content: `# Energi Terbarukan: Masa Depan yang Berkelanjutan
 
-Energi terbarukan berasal dari sumber yang selalu tersedia, seperti matahari, angin, air, dan biomassa. Transisi ke energi bersih penting untuk mengurangi **emisi karbon** dan menjaga bumi.
+Energi terbarukan berasal dari sumber yang selalu tersedia, seperti matahari, angin, air, dan biomassa. Transisi ke energi bersih penting untuk mengurangi emisi karbon dan menjaga bumi.
 
 ## Jenis Energi Terbarukan
 
-- **Energi surya:** panel fotovoltaik dan teknologi penyimpanan energi.
-- **Energi angin:** turbin darat dan lepas pantai.
-- **Energi air:** pembangkit listrik tenaga air dan gelombang.
-- **Bioenergi:** biomassa, biogas, dan biofuel dari limbah organik.
+- Energi surya: panel fotovoltaik dan teknologi penyimpanan energi.
+- Energi angin: turbin darat dan lepas pantai.
+- Energi air: pembangkit listrik tenaga air dan gelombang.
+- Bioenergi: biomassa, biogas, dan biofuel dari limbah organik.
 
 ## Inovasi dan Tantangan
 
-- **Penyimpanan energi:** baterai efisien dan grid pintar.
-- **Integrasi:** jaringan listrik yang stabil dan fleksibel.
-- **Biaya:** penurunan biaya produksi dan perawatan.
+- Penyimpanan energi: baterai efisien dan grid pintar.
+- Integrasi: jaringan listrik yang stabil dan fleksibel.
+- Biaya: penurunan biaya produksi dan perawatan.
 
 ## Kesimpulan
 
-Energi terbarukan adalah **kunci masa depan berkelanjutan**, mendorong inovasi teknologi di berbagai sektor, dan mengurangi dampak lingkungan.`,
+Energi terbarukan adalah kunci masa depan berkelanjutan, mendorong inovasi teknologi di berbagai sektor, dan mengurangi dampak lingkungan.`,
     author: "M. Arga Alfitrah",
     date: "2025-09-08T08:00:00Z",
     category: "Technology",
