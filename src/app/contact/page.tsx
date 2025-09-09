@@ -177,9 +177,14 @@ export default function ContactPage() {
               <button className="p-3 bg-blue-600/20 text-blue-400 rounded-lg hover:bg-blue-600/30 transition-colors">
                 LinkedIn
               </button>
-              <button className="p-3 bg-gray-500/20 text-gray-300 rounded-lg hover:bg-gray-500/30 transition-colors">
+              <a
+                href="https://github.com/wakhidpangestu/semestablog"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-3 bg-gray-500/20 text-gray-300 rounded-lg hover:bg-gray-500/30 transition-colors"
+              >
                 GitHub
-              </button>
+              </a>
             </div>
           </GlassCard>
         </div>

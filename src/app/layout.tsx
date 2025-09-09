@@ -49,7 +49,8 @@ export default function RootLayout({
               <footer className="border-t border-white/20 backdrop-blur-xl bg-white/5 py-8">
                 <div className="max-w-7xl mx-auto px-6 text-center">
                   <p className="text-white/60 text-sm">
-                    © {new Date().getFullYear()} — SemestaLabs.id
+                    © {new Date().getFullYear()} — 
+                    <a href="https://instagram.com/semestalabs.id" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80 transition-colors">SemestaLabs.id</a>
                   </p>
                   <div className="flex justify-center space-x-6 mt-4">
                     <Link href="/about" className="text-white/50 hover:text-white/70 text-sm transition-colors">
@@ -58,7 +59,7 @@ export default function RootLayout({
                     <Link href="/contact" className="text-white/50 hover:text-white/70 text-sm transition-colors">
                       Contact
                     </Link>
-                    <a href="github.com/wakhidpangestu" className="text-white/50 hover:text-white/70 text-sm transition-colors">
+                    <a href="https://github.com/wakhidpangestu/semestablog" target="_blank" rel="noopener noreferrer" className="text-white/50 hover:text-white/70 text-sm transition-colors">
                       GitHub
                     </a>
                   </div>
