@@ -33,7 +33,8 @@ export default function Navbar() {
   );
 }
 
-function NavItem({ item, active }: { item: any, active: boolean }) {
+type MenuItem = { key: string; label: string; href: string };
+function NavItem({ item, active }: { item: MenuItem; active: boolean }) {
   const animate = { scale: active ? 1.05 : 1 };
   return (
     <Link href={item.href} className="relative">
